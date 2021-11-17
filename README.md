@@ -1,1 +1,2 @@
-# reactjs-postgresql-and-a-form-
+# reactjs-postgresql-and-a-form
+testing postgresql using nodejs
